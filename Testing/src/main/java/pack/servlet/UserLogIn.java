@@ -43,7 +43,7 @@ public class UserLogIn extends HttpServlet {
 	 *      response)
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
-			throws ServletException, IOException {
+		throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 		try {

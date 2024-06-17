@@ -10,7 +10,7 @@
     <servlet-name>Checkuser</servlet-name>
     <url-pattern>/Checkuser</url-pattern>
   </servlet-mapping>
-  <display-name>Testing</display-name>
+  <display-name>WellBeingProject</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
